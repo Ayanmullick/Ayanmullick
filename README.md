@@ -18,6 +18,13 @@ Outside of cloud work, I'm interested in movies, good food, and cricket.
 
 ![Ayan Mullick's GitHub stats][github-stats]
 
+## Blog Posts
+
+- [Deploy Win11 Arm VM](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/ayanmullick/AzIaaS/main/Blog/DeployWindows11ArmVM.md)
+- [Three Tier App. Infra Deployment](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/Ayanmullick/AzIaaS/refs/heads/main/3TierApp/Document.md)
+- [Scalable e-commerce Webapp Project](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/Blog&homepage=Toptal.md#/)
+- [RePlatforming an IIS website](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/AzMigrate/Doc&homepage=CurrentPocStateDiagram.md#/)
+
 ## Public Repositories
 
 - [AzIaaS](https://github.com/Ayanmullick/AzIaaS): Azure infrastructure examples, including Windows 11 Arm VM deployment, VM notebooks, networking, Azure Virtual Desktop, and three-tier app infrastructure.
