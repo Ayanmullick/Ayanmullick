@@ -2,37 +2,48 @@
 
 ![Profile views][profile-views] [![Website][website-badge]][website] [![LinkedIn][linkedin-badge]][linkedin] [![Bluesky][bluesky-badge]][bluesky] [![Stack Overflow][stackoverflow-badge]][stackoverflow] [![X][x-badge]][x]
 
-I'm an independent Azure Consultant focused on PowerShell automation and Microsoft cloud work. My public repositories are mostly practical notes, scripts, and deployment examples for Azure infrastructure, Azure platform services, Microsoft 365, and day-to-day PowerShell workflows.
+I help teams design and automate Azure infrastructure and platform services with PowerShell-first workflows, turning manual cloud operations into repeatable delivery systems.
 
-Outside of cloud work, I'm interested in movies, good food, and cricket.
+If you are planning Azure automation or platform modernization, start here: [Book a focused consultation](https://www.upwork.com/services/consultation/development-it-ayan-1700522894840295424)
 
 ## Focus Areas
 
-- Azure infrastructure and VM deployment with PowerShell
-- Azure PaaS automation, including Static Web Apps, Functions, Storage, SQL, Cosmos DB, and Key Vault
-- Microsoft 365, Microsoft Graph, and Intune scripting
-- PowerShell runtime experiments, including browser and WebAssembly scenarios
-- Compact, reusable PowerShell examples for Windows, Linux, networking, remoting, and tooling setup
+- Azure infrastructure automation for faster and safer provisioning
+- Azure PaaS engineering patterns for Functions, Static Web Apps, Storage, SQL, Cosmos DB, and Key Vault
+- PowerShell modules and scripts that reduce manual operations and configuration drift
+- Microsoft 365, Microsoft Graph, and Intune automation for repeatable endpoint and identity operations
+- Cross-platform PowerShell practices for Windows, Linux, networking, remoting, and tooling setup
 
-## GitHub Stats
+## Impact Highlights
 
-![Ayan Mullick's GitHub stats][github-stats]
+- Built reusable Azure deployment examples covering IaaS and PaaS scenarios
+- Published practical runbooks and scripts that simplify day-to-day cloud operations
+- Documented replatforming patterns for legacy workloads moving to Azure services
+- Shared Microsoft 365 and Graph automation examples for admin and engineering workflows
+
+## Selected Repositories
+
+<ul>
+<li><a href="https://github.com/Ayanmullick/AzIaaS"><code>AzIaaS&nbsp;&nbsp;&nbsp;&nbsp;</code></a>: Azure infrastructure examples, including Windows 11 ARM VM deployment, VM notebooks, networking, Azure Virtual Desktop, and three-tier application infrastructure.</li>
+<li><a href="https://github.com/Ayanmullick/AzPaaS"><code>AzPaaS&nbsp;&nbsp;&nbsp;&nbsp;</code></a>: Azure PaaS scripts for Static Web Apps, Functions, Storage, databases, governance, billing, and Key Vault scenarios.</li>
+<li><a href="https://github.com/Ayanmullick/AzFuncFlex"><code>AzFuncFlex&nbsp;</code></a>: AutoRest-based example for PowerShell Azure Functions.</li>
+<li><a href="https://github.com/Ayanmullick/PowerShell"><code>PowerShell</code></a>: General PowerShell scripts for Windows, Linux, networking, remoting, package setup, BitLocker, and Markdown workflows.</li>
+<li><a href="https://github.com/Ayanmullick/PSWasm"><code>PSWasm&nbsp;&nbsp;&nbsp;&nbsp;</code></a>: PowerShell WebAssembly experiment.</li>
+<li><a href="https://github.com/Ayanmullick/M365"><code>M365&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code></a>: Microsoft 365 plus Microsoft Graph and Intune PowerShell examples.</li>
+</ul>
 
 ## Blog Posts
 
-- [Deploy Win11 Arm VM](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/ayanmullick/AzIaaS/main/Blog/DeployWindows11ArmVM.md)
-- [Three Tier App. Infra Deployment](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/Ayanmullick/AzIaaS/refs/heads/main/3TierApp/Document.md)
-- [Scalable e-commerce Webapp Project](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/Blog&homepage=Toptal.md#/)
-- [RePlatforming an IIS website](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/AzMigrate/Doc&homepage=CurrentPocStateDiagram.md#/)
+- [Deploy Windows 11 ARM VM on Azure](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/ayanmullick/AzIaaS/main/Blog/DeployWindows11ArmVM.md): End-to-end deployment walkthrough for a Windows 11 ARM VM scenario.
+- [Three-Tier Application Infrastructure Deployment](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/Ayanmullick/AzIaaS/refs/heads/main/3TierApp/Document.md): Infrastructure design and deployment notes for a three-tier architecture.
+- [Scalable E-Commerce Web App Project](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/Blog&homepage=Toptal.md#/): Architecture and implementation notes for scalable Azure PaaS workloads.
+- [Replatforming an IIS Website](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/AzMigrate/Doc&homepage=CurrentPocStateDiagram.md#/): Practical migration path from IIS-hosted workloads to Azure platform services.
 
-## Public Repositories
+## GitHub Stats
 
-- [AzIaaS](https://github.com/Ayanmullick/AzIaaS): Azure infrastructure examples, including Windows 11 Arm VM deployment, VM notebooks, networking, Azure Virtual Desktop, and three-tier app infrastructure.
-- [AzPaaS](https://github.com/Ayanmullick/AzPaaS): Azure PaaS scripts for Static Web Apps, Functions, Storage, databases, governance, billing, and Key Vault scenarios.
-- [AzFuncFlex](https://github.com/Ayanmullick/AzFuncFlex): AutoRest example for PowerShell Azure Functions.
-- [PowerShell](https://github.com/Ayanmullick/PowerShell): General PowerShell scripts for Windows, Linux, networking, remoting, package setup, BitLocker, and Markdown workflows.
-- [PSWasm](https://github.com/Ayanmullick/PSWasm): Initial PowerShell WebAssembly experiment.
-- [M365](https://github.com/Ayanmullick/M365): Microsoft 365 and Microsoft Graph/Intune PowerShell examples.
+These repositories are practical scripts, deployment notes, and reference implementations that support real project work.
+
+![Ayan Mullick's GitHub stats][github-stats]
 
 ## Connect
 

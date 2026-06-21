@@ -1,2 +1,8 @@
 # Local editor settings
 .vscode/
+
+# Local profile draft
+README.profile-draft.md
+
+# Local workspace agent instructions
+AGENTS.md
