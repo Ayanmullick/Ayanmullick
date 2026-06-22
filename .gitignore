@@ -6,6 +6,8 @@ README.profile-draft.md
 
 # Local workspace agent instructions
 AGENTS.md
+.codex/
+.agents/
 
 # Local Copilot instructions
 .github/instructions/
