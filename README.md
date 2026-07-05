@@ -61,7 +61,7 @@ These repositories are practical scripts, deployment notes, and reference implem
 [bluesky-badge]: https://img.shields.io/bluesky/followers/ayan.mullick.in?style=flat&logo=bluesky&logoColor=white&label=Bluesky&color=1185FE
 [stackoverflow-badge]: https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white
 [x-badge]: https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white
-[github-stats]: https://github-stats-extended.vercel.app/api?username=Ayanmullick&show_icons=true
+[github-stats]: ./profile/stats.svg
 
 <!-- link references -->
 [website]: https://ayan.mullick.in/
