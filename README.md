@@ -23,38 +23,14 @@ If you are planning Azure automation or platform modernization, start here: [Boo
 
 ## Selected Repositories
 
-<table>
-	<tr>
-		<td><a href="https://github.com/Ayanmullick/AzIaaS">AzIaaS</a></td>
-		<td>:</td>
-		<td>Azure infrastructure examples, including Windows 11 ARM VM deployment, VM notebooks, networking, Azure Virtual Desktop, and three-tier application infrastructure.</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Ayanmullick/AzPaaS">AzPaaS</a></td>
-		<td>:</td>
-		<td>Azure PaaS scripts for Static Web Apps, Functions, Storage, databases, governance, billing, and Key Vault scenarios.</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Ayanmullick/AzFuncFlex">AzFuncFlex</a></td>
-		<td>:</td>
-		<td>AutoRest-based example for PowerShell Azure Functions.</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Ayanmullick/PowerShell">PowerShell</a></td>
-		<td>:</td>
-		<td>General PowerShell scripts for Windows, Linux, networking, remoting, package setup, BitLocker, and Markdown workflows.</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Ayanmullick/PSWasm">PSWasm</a></td>
-		<td>:</td>
-		<td>PowerShell WebAssembly experiment.</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/Ayanmullick/M365">M365</a></td>
-		<td>:</td>
-		<td>Microsoft 365 plus Microsoft Graph and Intune PowerShell examples.</td>
-	</tr>
-</table>
+<ul>
+<li><a href="https://github.com/Ayanmullick/AzIaaS">AzIaaS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Azure IaaS examples for Windows 11 ARM VM, networking, Azure Virtual Desktop, and three-tier app deployments.</li>
+<li><a href="https://github.com/Ayanmullick/AzPaaS">AzPaaS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Azure PaaS scripts for Static Web Apps, Functions, Storage, databases, governance, billing, and Key Vault scenarios.</li>
+<li><a href="https://github.com/Ayanmullick/AzFuncFlex">AzFuncFlex</a>&nbsp;&nbsp;&nbsp;&nbsp;: AutoRest-based example for PowerShell Azure Functions.</li>
+<li><a href="https://github.com/Ayanmullick/PowerShell">PowerShell</a>&nbsp;&nbsp;&nbsp;&nbsp;: Cross-platform PowerShell scripts for Windows/Linux networking, remoting, package setup, BitLocker, and Markdown.</li>
+<li><a href="https://github.com/Ayanmullick/PSWasm">PSWasm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: PowerShell WebAssembly experiment.</li>
+<li><a href="https://github.com/Ayanmullick/M365">M365</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;: Microsoft 365 plus Microsoft Graph and Intune PowerShell examples.</li>
+</ul>
 
 ## Blog Posts
 
