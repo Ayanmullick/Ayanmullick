@@ -1,13 +1,2 @@
-# Local editor settings
-.vscode/
-
-# Local profile draft
-README.profile-draft.md
-
-# Local workspace agent instructions
-AGENTS.md
-.codex/
-.agents/
-
-# Local Copilot instructions
-.github/instructions/
+# Generated workspace output
+.WorkDir
