@@ -34,10 +34,10 @@ If you are planning Azure automation or platform modernization, start here: [Boo
 
 ## Blog Posts
 
-- [Deploy Windows 11 ARM VM on Azure](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/ayanmullick/AzIaaS/main/Blog/DeployWindows11ArmVM.md): End-to-end deployment walkthrough for a Windows 11 ARM VM scenario.
-- [Three-Tier Application Infrastructure Deployment](https://ayanmullick.github.io/AzIaaS/?path=https://raw.githubusercontent.com/Ayanmullick/AzIaaS/refs/heads/main/3TierApp/Document.md): Infrastructure design and deployment notes for a three-tier architecture.
-- [Scalable E-Commerce Web App Project](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/Blog&homepage=Toptal.md#/): Architecture and implementation notes for scalable Azure PaaS workloads.
-- [Replatforming an IIS Website](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/AzMigrate/Doc&homepage=CurrentPocStateDiagram.md#/): Practical migration path from IIS-hosted workloads to Azure platform services.
+- [Deploy Windows 11 ARM VM on Azure](https://ayan.mullick.in/FieldNotes?path=https://raw.githubusercontent.com/ayanmullick/AzIaaS/main/Blog/DeployWindows11ArmVM.md): End-to-end deployment walkthrough for a Windows 11 ARM VM scenario.
+- [Three-Tier Application Infrastructure Deployment](https://ayan.mullick.in/FieldNotes?path=https://raw.githubusercontent.com/Ayanmullick/AzIaaS/refs/heads/main/3TierApp/Document.md): Infrastructure design and deployment notes for a three-tier architecture.
+- [Scalable E-Commerce Web App Project](https://ayan.mullick.in/FieldNotes?path=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/Blog/Toptal.md): Architecture and implementation notes for scalable Azure PaaS workloads.
+- [Replatforming an IIS Website](https://ayan.mullick.in/FieldNotes?path=https://raw.githubusercontent.com/Ayanmullick/AzPaaS/master/AzMigrate/Doc/CurrentPocStateDiagram.md): Practical migration path from IIS-hosted workloads to Azure platform services.
 
 ## GitHub Stats
 
